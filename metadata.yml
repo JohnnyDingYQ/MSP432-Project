@@ -1,0 +1,16 @@
+---
+:id: 163578761
+:submitters:
+- :name: Johnny Ding
+  :email: dingy8@rose-hulman.edu
+- :name: Cole Patton
+  :email: pattoncm@rose-hulman.edu
+- :name: Grant Ruschak
+  :email: ruschagd@rose-hulman.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-02-21 19:43:18.829139000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-02-21 11:43:18.829139000 Z
+:status: processed
+:score: 16.0
